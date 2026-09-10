@@ -4,7 +4,8 @@ Repositorio que contiene una copia de las imágenes de La Tira de Linux Hispano,
 La url original es la del repositorio de su creador:
 * https://tira.danigm.net/
 
-Estructura
+### Estructura
+```
 tiras-linux-hispano/
 ├── images/
 │   ├── 0607.png
@@ -14,7 +15,7 @@ tiras-linux-hispano/
 │   └── ...
 │
 └── tiras.txt
-
+```
 ### Contenido
 
 Directorio **images/**
